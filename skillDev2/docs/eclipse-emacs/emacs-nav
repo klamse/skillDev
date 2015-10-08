@@ -1,0 +1,7 @@
+# Custom ShortCuts.  You will need to define there:
+# How to go between tabs in editor?
+Shift-F2	Previous Tab
+Shift-F3	Next Tab
+
+alt-0-, ctrl-k	Kill cursor to beginning of line
+

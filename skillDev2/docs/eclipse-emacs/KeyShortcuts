@@ -1,0 +1,55 @@
+===
+Moving
+C-f             forward
+C-b             back
+C-n             next line
+C-b             back line
+
+C-a             begin line
+C-e             end line
+M-f             forward one word
+M-b             back one word
+M-a             previous sentence
+M-e             next sentence
+M-v             previous screen
+C-v             next screen
+M-<             begin buffer
+M->             end buffer
+
+M-x linum-mode  Show line numbers for this session
+M-g g           Go to line number
+M-g tab         Move to column number
+
+C-l             Recenter cursor to middle of page
+
+
+Ace
+C-c SPACE       Give 1 letter to ace jump
+C-u C-c SPC     Fine any letter
+C-u C-u C-c SPC Fine line keep position inn line
+
+Copy/paste
+C-w             cut text
+M-w             copy text
+C-y             past text
+
+C-k             Kill to end of line
+M-0 C-k         Kill to beginning of like
+ or C-u 0 C-k
+
+C-d             Delete next character
+
+M-\
+Delete spaces and tab around point a  a
+M-SPC           Delete spaces and tab around point leaving one space
+C-x C-o         Delete blank lines after point (not before) Delete current
+line if blank
+M-^             Join two lines by deleting the intervening newline (join to
+next up
+
+
+Multi Cursor
+
+Rectagle
+
+

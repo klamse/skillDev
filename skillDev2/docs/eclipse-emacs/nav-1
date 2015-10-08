@@ -1,0 +1,286 @@
+# End of doc
+Alt-Shift >		end of doc
+Alt-Shift <		beginning of doc
+
+ctrl v			down page
+alt v			up page
+
+ctrl l			center text, text top, text bottom cycle
+ctrl o			Move line down keep cursor on line
+
+asdf
+
+Excercises:
+# Basic Navigation
+# Use touch type positions!
+# C-l C-l  to bring to top of window
+START ->xxxxx
+            x 
+xxxxxxxxxxxxx
+x
+xxx
+  x   xxxx
+  xxxxx  x
+         x
+      xxxx
+      x
+      x
+      xxxxxxxxxxxx
+                 x
+           xxxxxxx
+           x
+        xxxx
+        x
+ssxxxxxxx
+s
+sxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+s->                             x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx x
+x                             x x
+x xxxxxxxxxxxxxxxxxxxxxxxxxxx x x
+x x                         x x x
+x x xxxxxxxxxxxxxxxxxxxxxxx x x x
+x x x                     x x x x
+x x x xxxxxxxxxxxxxxxxxxx x x x x
+x x x x                 x x x x x
+x x x x xxxxxxxxxxxxxxx x x x x x
+x x x x x               x x x x x
+x x x x x xxxxxxxxxxxxxxx x x x x
+x x x x x              $x x x x x
+x x x x xxxxxxxxxxxxxxxxx x x x x
+x x x x                   x x x x
+x x x xxxxxxxxxxxxxxxxxxxxx x x x
+x x x                       x x x
+x x xxxxxxxxxxxxxxxxxxxxxxxxx x x
+x x                           x x
+x xxxxxxxxxxxxxxxxxxxxxxxxxxxxx x
+x                               x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+ sstxx
+xx   xx
+xxx   xx
+  xx xx
+   xx
+
+# Mark and move
+Mark.HERE.to.HERE.unmark.next
+Mark.HERE.to.HERE.unmark.next
+Mark.HERE.to.HERE.unmark.next
+Mark.HERE.to.HERE.unmark.next
+Mark.HERE.to.HERE.unmark.next
+Mark.HERE.to.HERE.unmark.next
+Mark.HERE.to.HERE.unmark.next
+Mark.HERE.to.HERE.unmark.next
+Mark.HERE.to.HERE.unmark.next
+Mark.HERE.to.HERE.unmark.next
+Mark.HERE.to.HERE.unmark.next
+Mark.HERE.to.HERE.unmark.next
+Mark.HERE.to.HERE.unmark.next
+Mark.HERE.to.HERE.unmark.next
+Mark.HERE.to.HERE.unmark.next
+Mark.HERE.to.HERE.unmark.next
+Mark.HERE.to.HERE.unmark.next
+Mark.HERE.to.HERE.unmark.next
+Mark.HERE.to.HERE.unmark.next
+Mark.HERE.to.HERE.unmark.next
+Mark.HERE.to.HERE.unmark.next
+Mark.HERE.to.HERE.unmark.next
+Mark.HERE.to.HERE.unmark.next
+Mark.HERE.to.HERE.unmark.next
+Mark.HERE.to.HERE.unmark.next
+Mark.HERE.to.HERE.unmark.next
+Mark.HERE.to.HERE.unmark.next
+Mark.HERE.to.HERE.unmark.next
+Mark.HERE.to.HERE.unmark.next
+Mark.HERE.to.HERE.unmark.next
+Mark.HERE.to.HERE.unmark.next
+
+# Practice move and kill
+               
+			move here, kill beginning
+move here, kill end		.
+			move here, kill beginning
+move here, kill end		.
+			move here, kill beginning
+move here, kill end		.
+			move here, kill beginning
+move here, kill end		.
+			move here, kill beginning
+move here, kill end		.
+			move here, kill beginning
+move here, kill end		.
+			move here, kill beginning
+move here, kill end		.
+			move here, kill beginning
+move here, kill end		.
+			move here, kill beginning
+move here, kill end		.
+			move here, kill beginning
+move here, kill end		.
+			move here, kill beginning
+move here, kill end		.
+			move here, kill beginning
+move here, kill end		.
+			move here, kill beginning
+move here, kill end		.
+			move here, kill beginning
+move here, kill end		.
+			move here, kill beginning
+move here, kill end		.
+			move here, kill beginning
+move here, kill end		.
+			move here, kill beginning
+move here, kill end		.
+
+
+# Practice move to front and end of line
+
+a          e
+b          e
+a          e
+a          e
+a          e
+a          e
+a          e
+a          e
+
+
+# Practice multi cursor
+# Mark an area and do this:
+# C-S-c C-S-c
+# Alt-S A for eclipse
+
+   id=OK.other.again.great.beatthis.each.hi.n.but.when.if.ok
+   id=OK.other.again.great.beatthis.each.hi.n.but.when.if.ok
+   id=OK.other.again.great.beatthis.each.hi.n.but.when.if.ok
+   id=OK.other.again.great.beatthis.each.hi.n.but.when.if.ok
+   id=OK.other.again.great.beatthis.each.hi.n.but.when.if.ok
+   id=OK.other.again.great.beatthis.each.hi.n.but.when.if.ok
+   id=OK.other.again.great.beatthis.each.hi.n.but.when.if.ok
+   id=OK.other.again.great.beatthis.each.hi.n.but.when.if.ok
+   id=OK.other.again.great.beatthis.each.hi.n.but.when.if.ok
+   id=OK.other.other.again.great.beatthis.each.hi.n.but.when.if.ok
+   id=OK.other.other.again.great.beatthis.each.hi.n.but.when.if.ok
+   id=OK.other.other.again.great.beatthis.each.hi.n.but.when.if.ok
+   id=OK.other.other.again.great.beatthis.each.hi.n.but.when.if.ok
+   id=OK.other.other.again.great.beatthis.each.hi.n.but.when.if.ok
+   id=OK.other.other.again.great.beatthis.each.hi.n.but.when.if.ok
+
+
+# type over
+   id=OK.ok is great.diff.hi.and.then.cool.oneok.this.cool,ok, it has to
+   id=OK.ok is great.diff.hi.and.then.cool.oneok.this.is.cool,ok, it has to
+
+# Practice Rectagles
+# C-x SPC toggle rec mode
+# C-x r k       Kill region
+# C-x r t  text overwrite.
+
+1     2.        3.
+1     2.        3.
+1     2.        3.
+
+
+# Practice Ace Jump!
+# C-c SPC               Start word
+# C-u C-c SPC           in word
+# C-u C-u C-c SPC       line
+
+1         5             zap
+G         5             zap
+2         5             zap
+
+# Practice delete one word
+
+# If on the work
+# M-B M-@ C-w
+# M-x delete-selection-mode
+ 
+one two three
+one two three
+one two three
+one two three
+one two three
+one two three
+one two three
+one two threee
+one two three
+one two three
+one two three
+one two three
+one two three
+one two three
+one two three
+one two three
+one two three
+one two three
+one two three
+one two three
+one two three
+one two three
+one two three
+one two three
+one two three
+one two three
+one two three
+one two three
+one two three
+one two three
+one two three
+one two three
+one two three
+one two three
+
+
+# Practice Search
+# backward and forward
+# C-s  forward
+# C-r  backward
+# C-a  cancel search and move to beginning of linesa
+# SearchI: C-j  #match end of line
+#   M-%  Query replace y
+# rebind M-TAB which isearch-compete
+#   C-h C-h  help mode
+
+a aa
+b bb
+c cc
+d dd
+                                     
+# Buffer Practice
+# C-x b TAB  list of buffers (how to select?)
+# C-x C-b    buffer list
+# C-x k <buffer> RET    kill buffer
+# M-x kill-some-buffers
+# M-x kill-matching-buffers
+# M-x ido-mode
+# C-x b      shows buffer selection
+  C-s  forward
+  C-r  backward
+  Can start typing to filter
+  RETURN to select
+  C-o create a new line below the current line
+
+
+# Typing Practice
+# C-o    to create a line
+# M-^    to join lines
+
+abcd abcd abcd abcd abcd abcd abcd abcd abcd abcd 
+
+efgh efgh efgh efgh efgh efgh efgh efgh efgh efgh 
+
+ijkl ijkl ijkl ijkl ijkl ijkl ijkl ijkl ijkl ijkl 
+
+mnop mnop mnop mnop mnop mnop mnop mnop mnop mnop 
+
+qrst qrst qrst qrst qrst qrst qrst qrst qrst qrst 
+
+uvwx uvwx uvwx uvwx uvwx uvwx uvwx uvwx uvwx uvwx 
+
+yzyz yzyz yzyz yzyz yzyz yzyz yzyz yzyz yzyz yzyz 
+
+12345 12345 12345 12345 12345 12345 12345 12345 
+
+67890 67890 67890 67890 67890 67890 67890 67890 

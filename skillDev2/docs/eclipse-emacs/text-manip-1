@@ -1,0 +1,90 @@
+# eclipse-emacs+ schema
+# Need to determine which emacs shortcuts to keep
+# M-w	copy text
+# C-w	cut text
+# C-y	past test
+
+
+- copy this		after this   
+- copy this		after this 
+- cut this 		after this 
+- cut this 		after this 
+- copy this		after this 
+- copy this		after this 
+- cut this 		after this 
+- cut this 		after this 
+- copy this		after this 
+- copy this		after this 
+- cut this		after this  
+- cut this		after this
+- copy this		after this  
+- copy this		after this 
+- cut this		after this  
+- cut this 		after this 
+- copy this		after this
+- copy this		after this
+- cut this		after this  
+- cut this 		after this 
+- copy this		after this 
+- copy this		after this 
+- cut this		after this  
+- cut this 		after this 
+- copy this		after this
+- copy this		after this
+- cut this		after this 
+- cut this 		after this 
+- copy this		after this
+- copy this		after this
+- cut this		after this  
+- cut this 		after this 
+- copy this		after this
+- copy this		after this 
+- cut this 		after this 
+- cut this 		after this 
+- 
+# Transpose
+
+ef
+ab
+ab
+ab
+
+# Caps
+# M-u	upper
+# M-l	lower
+# M-c	cap word
+
+MAKE LOWER
+make upper
+Cap
+MAKE LOWER
+make upper
+Cap
+MAKE LOWER
+make upper
+Cap
+MAKE LOWER
+make upper
+Cap
+MAKE LOWER
+make upper
+Cap
+MAKE LOWER
+make upper
+Cap
+MAKE LOWER
+make upper
+Cap
+MAKE LOWER
+make upper
+Cap
+MAKE LOWER
+make upper
+Cap
+MAKE LOWER
+make upper
+Cap
+MAKE LOWER
+make upper
+Cap
+
